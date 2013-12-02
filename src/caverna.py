@@ -86,4 +86,4 @@ class Camara:
 def main(gui):
     print('Caverna 0.1.0')
     caverna = Caverna(gui).cria_caverna()
-
+ZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZ
